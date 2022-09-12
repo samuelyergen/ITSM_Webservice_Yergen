@@ -1,0 +1,10 @@
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\bin\Debug\PrinterForm.exe.config
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\bin\Debug\PrinterForm.exe
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\bin\Debug\PrinterForm.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.Form1.resources
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.Properties.Resources.resources
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.csproj.GenerateResource.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.csproj.CoreCompileInputs.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.exe
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrinterForm\obj\Debug\PrinterForm.pdb

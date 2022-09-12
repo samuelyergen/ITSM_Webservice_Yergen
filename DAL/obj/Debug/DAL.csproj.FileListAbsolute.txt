@@ -1,0 +1,9 @@
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\bin\Debug\DAL.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\bin\Debug\DAL.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\bin\Debug\DTO.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\bin\Debug\DTO.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\obj\Debug\DAL.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DAL\obj\Debug\DAL.pdb

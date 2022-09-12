@@ -1,0 +1,14 @@
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\PrintSystem.dll.config
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\PrintSystem.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\PrintSystem.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\BLL.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\DAL.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\DTO.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\BLL.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\DAL.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\bin\DTO.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\obj\Release\PrintSystem.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\obj\Release\PrintSystem.csproj.CoreCompileInputs.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\obj\Release\PrintSystem.csproj.CopyComplete
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\obj\Release\PrintSystem.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\PrintSystem\obj\Release\PrintSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DTO\bin\Debug\DTO.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DTO\bin\Debug\DTO.pdb
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DTO\obj\Debug\DTO.dll
+C:\Users\pro\source\repos\Projet_ITSM_Yergen\DTO\obj\Debug\DTO.pdb
